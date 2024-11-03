@@ -28,4 +28,6 @@ I'm an computer science student, my interests include network programming, embed
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=farnsolo&theme=gruvbox&border_radius=4.5) -->
 
+<!-- ![GitHub Streak](https://github-user-language-breakdown.vercel.app?user=farnsolo&theme=gruvbox&border_radius=4.5) -->
+
 #
