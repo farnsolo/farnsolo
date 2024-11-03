@@ -26,6 +26,6 @@ I'm an computer science student, my interests include network programming, embed
 
 [![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farnsolo)](https://github.com/farnsolo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/exclude_repo=farnsolo.github.io/?username=farnsolo)](https://github.com/farnsolo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farnsolo&exclude_repo=farnsolo.github.io)](https://github.com/farnsolo/github-readme-stats)
 
 #
