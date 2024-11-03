@@ -21,3 +21,11 @@ I'm an computer science student, my interests include network programming, embed
 <br />
 
 #
+
+### 📊 Stats
+
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farnsolo&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=farnsolo&theme=gruvbox&border_radius=4.5) -->
+
+#
