@@ -24,10 +24,6 @@ I'm an computer science student, my interests include network programming, embed
 
 ### 📊 Stats
 
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farnsolo&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=farnsolo&theme=gruvbox&border_radius=4.5) -->
-
-<!-- ![GitHub Streak](https://github-user-language-breakdown.vercel.app?user=farnsolo&theme=gruvbox&border_radius=4.5) -->
+[![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farnsolo)](https://github.com/farnsolo/github-readme-stats)
 
 #
