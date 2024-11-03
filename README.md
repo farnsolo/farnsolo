@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @farnsolo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Farhan Khan
 
-<!---
-farnsolo/farnsolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Aspiring Computer Scientist and Software Developer**
+
+I'm an computer science student, my interests include network programming, embedded systems, robotics, neuromorphic computers and Edge AI. My projects are built from a single concept/idea, and are expanded upon throughout development. I take care to constantly design solutions, test them and implement where fit.
+
+---
